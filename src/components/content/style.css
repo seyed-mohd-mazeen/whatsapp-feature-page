@@ -1,0 +1,78 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 14 October, 2022
+**/
+
+.t-center {
+    text-align: center;
+}
+.bgcol-lb {
+    background-color: #fcf2c6;
+    padding: 80px 100px;
+    padding-top: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.img1 {
+    margin-bottom: 20px;
+}
+.bgcol-b {
+    background-color: #d8e8ea;
+    padding: 80px 100px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.pb-0 {
+    padding-bottom: 0;
+}
+.mb-0 {
+    margin-bottom: 0;
+}
+.pt-0 {
+    padding-top: 0;
+}
+.ptl {
+    padding-top: 100px;
+    padding-left: 165px;
+}
+.mtb {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.pos-rel {
+    position: relative;
+    right: 90px;
+}
+.bgcol-grey {
+    background-color: #e7f0e4;
+    padding: 80px 100px;
+    margin-bottom: 20px;
+    padding-top: 200px;
+}
+.bgcol-lgrey {
+    background-color: #f0f4f9;
+    padding: 80px 100px 0 100px;
+    margin-bottom: 20px;
+}
+.bgcol-lgrey a {
+    color: #39b3ed;
+    text-decoration: none;
+}
+.bgcol-lgrey a:hover {
+    text-decoration: underline;
+}
+.img5 {
+    position: relative;
+    left: 158px;
+}
+.img-ani {
+    padding: 100px;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+    height: 100px;
+    width: 100px;
+    background-color: #77d7c8;
+}

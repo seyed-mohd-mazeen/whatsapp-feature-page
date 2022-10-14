@@ -1,3 +1,46 @@
+/*
+*
+* app.css
+* @author - Mazeen
+* @date - 14 October, 2022
+**/
+
+body {
+  background-color: #fff;
+}
+h1 {
+  margin: 0;
+}
+h2 { 
+  margin: 0;
+  font-size: 28px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  padding: 0 2px;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+h3 {
+  margin: 0;
+  color: #5E5E5E;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 2px;
+  letter-spacing: 2px;
+}
+p {
+  font-size: 16px;
+  margin-bottom: 50px;
+  color: #5E5E5E
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+.cell-1 {
+  flex: 1;
+}
 .App {
   text-align: center;
 }

@@ -1,0 +1,41 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 14 October, 2022
+**/
+
+.footer {
+    background-color: #273443;
+    color: #F0F4F9;
+    padding: 50px 100px;
+}
+.sub-footer-list {
+    margin: 0;
+    padding: 0;
+}
+.sub-footer-list li {
+    list-style-type: none;
+    padding: 3px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.sub-footer-list li a {
+    color:#F0F4F9;
+    text-decoration: none;
+}
+.sub-footer-list li a:hover {
+    text-decoration: underline;
+}
+.main-footer {
+    padding: 20px 150px 20px 100px;
+    background-color: #1c1e21;
+}
+.main-footer p {
+    color: #F0F4F9;
+    font-weight: 600;
+    margin: 0;
+}
+.t-right {
+    text-align: right;
+}
